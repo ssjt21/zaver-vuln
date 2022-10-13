@@ -41,3 +41,10 @@ cd .. && ./build/zaver -c zaver.conf
 
 https://zyearn.github.io/blog/2015/05/16/how-to-write-a-server/
 
+
+### 运行
+./zaver -c zaver.conf
+
+![图 1](images/08534a22a01b6eab589cc4332bbb9f03875d1e907179bf468fd63d4a121a8571.png)  
+
+

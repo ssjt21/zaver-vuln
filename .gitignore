@@ -1,7 +1,0 @@
-*.swp
-*.log
-*.o
-build/
-*_test
-tags
-.DS_Strore
